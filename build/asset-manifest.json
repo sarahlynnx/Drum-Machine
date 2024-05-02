@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DrumMachine/static/css/main.e31868a9.css",
-    "main.js": "/DrumMachine/static/js/main.a23bad31.js",
-    "static/js/787.e49fe707.chunk.js": "/DrumMachine/static/js/787.e49fe707.chunk.js",
-    "static/media/drums.jpg": "/DrumMachine/static/media/drums.256d23103ca8255bc2b0.jpg",
-    "index.html": "/DrumMachine/index.html",
-    "main.e31868a9.css.map": "/DrumMachine/static/css/main.e31868a9.css.map",
-    "main.a23bad31.js.map": "/DrumMachine/static/js/main.a23bad31.js.map",
-    "787.e49fe707.chunk.js.map": "/DrumMachine/static/js/787.e49fe707.chunk.js.map"
+    "main.css": "/Drum-Machine/static/css/main.df857efd.css",
+    "main.js": "/Drum-Machine/static/js/main.1676b9ba.js",
+    "static/js/787.e49fe707.chunk.js": "/Drum-Machine/static/js/787.e49fe707.chunk.js",
+    "static/media/drums.jpg": "/Drum-Machine/static/media/drums.256d23103ca8255bc2b0.jpg",
+    "index.html": "/Drum-Machine/index.html",
+    "main.df857efd.css.map": "/Drum-Machine/static/css/main.df857efd.css.map",
+    "main.1676b9ba.js.map": "/Drum-Machine/static/js/main.1676b9ba.js.map",
+    "787.e49fe707.chunk.js.map": "/Drum-Machine/static/js/787.e49fe707.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e31868a9.css",
-    "static/js/main.a23bad31.js"
+    "static/css/main.df857efd.css",
+    "static/js/main.1676b9ba.js"
   ]
 }
